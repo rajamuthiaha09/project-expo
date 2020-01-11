@@ -6,5 +6,5 @@
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
 | 1  |  C.Rajaha Muthiaha |19csb20   |sairajchellappan@gmailo.com   |
-|  2 |B.praveen kumar   |19csb14   |praveensooraj41@gmail.com   |
+|  2 |B.praveen sooraj   |19csb14   |praveensooraj41@gmail.com   |
 | 3  | Raj vishanth  | 19csb18  |   |
